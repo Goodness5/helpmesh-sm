@@ -22,6 +22,7 @@ Matching, chat, profiles, accessibility needs, category, description, location, 
 
 `requestId` is a `bytes32` the app computes once:
 
+
 ```ts
 keccak256(encodePacked(toBytes(requestUuid), secretSalt))
 ```
