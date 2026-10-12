@@ -1,0 +1,8 @@
+{
+  "name": "helpmesh-sm",
+  "private": true,
+  "scripts": {
+    "chain:demo": "bash script/chain-demo.sh",
+    "abis": "bash script/export-abis.sh"
+  }
+}
