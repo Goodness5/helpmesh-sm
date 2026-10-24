@@ -2,7 +2,6 @@
 
 ## Base Sepolia (chain id 84532)
 
-Verified on [Basescan](https://sepolia.basescan.org). Deployed 8 October 2026.
 
 `0x5E69f0b90765685f4BFaC82B99A9E4f29e9BaFD1` holds admin, operator, eligibility signer, arbiter, and pauser.
 
